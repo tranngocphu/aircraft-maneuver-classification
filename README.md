@@ -1,4 +1,4 @@
-# maneuver-classification
+# Aircraft Maneuver Classification
 
 Supplementary data for the following paper (submitted to the 14th ATM R&D Seminar 2021)
 
